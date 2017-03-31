@@ -5,3 +5,4 @@
 * Dracula
 * Frankie
 * Kathy
+* Bruce
